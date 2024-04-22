@@ -7,3 +7,5 @@ Features:
 - Divides the visible price range into segments and analyzes volume distribution within each segment.
 - Provides visual cues such as colored boxes to represent liquidity sentiment, with green indicating positive sentiment and red indicating negative sentiment.
 - Offers customization options for users to adjust parameters according to their trading preferences.
+
+![ETHUSDT P_2024-04-22_18-38-14_6643a](https://github.com/Octa0001/Liquidity-Sentiment-Volume-Profile/assets/167818404/6452df57-de3d-45a7-b9b4-cea1ea49faaf)
